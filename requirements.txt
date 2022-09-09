@@ -1,1 +1,11 @@
 Aquí se registran las librerías utilizadas para que funcione el código
+
+import yfinance as yf
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot 
+
+yfinance se usa para la descarga de precios históricos de los activos.
+pandas es la biblioteca para la manipulación de datos en DataFrames.
+numpy es para las operaciones y procesos numéricos.
+matplotlib.pyplot  es la biblioteca para la graficación de datos.
